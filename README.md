@@ -2,8 +2,8 @@
 
 
 
-##Quantum Teleportation 
-##Grover's Algorithm 
-##Noisy Simulations and Benchmarking 
-##Quantum Error Correction 
-##Near-Term Algorithms
+# Quantum Teleportation 
+# Grover's Algorithm 
+# Noisy Simulations and Benchmarking 
+# Quantum Error Correction 
+# Near-Term Algorithms
