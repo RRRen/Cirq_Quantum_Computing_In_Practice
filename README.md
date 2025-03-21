@@ -2,7 +2,7 @@
 
 
 
-# Quantum Teleportation 
+#  ##Quantum Teleportation 
 # Grover's Algorithm 
 # Noisy Simulations and Benchmarking 
 # Quantum Error Correction 
